@@ -36,3 +36,4 @@ yarn-error.log*
 # MC particulars
 .idea
 events.db
+time-test.js
